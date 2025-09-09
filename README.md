@@ -1,5 +1,17 @@
 # PF-Lab03-25K-2049
-Lab Task 3
+## _**Lab Task 3**_
 
-Name: Teham Irfan
-I enjoy playing football and spending time with my friends in my spare time when I'm not studying/doing work. I have interest in learning C, C++, Python, Java and HTML.
+**_Name: Teham Irfan_**
+I enjoy:
+
+1. Playing football
+2. Spending time with my friends in my spare time
+3. Reading
+
+I have interest in learning:
+
+- C
+- C++
+- Python
+- Java 
+- HTML
